@@ -1,1 +1,2 @@
 GitHub Repository: https://github.com/pablomgProgOO/TP1_MG_Pablo
+Postman url: https://pablo9-8650.postman.co/workspace/Pablo-Workspace~5af2aabd-7c3e-4773-b8ed-2f1cdb97abdc/collection/41819299-489031f9-a276-491d-ad05-200ef1aa7b5f?action=share&creator=41819299
